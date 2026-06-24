@@ -37,10 +37,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0344-reverse-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
