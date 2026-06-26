@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0041-first-missing-positive) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
