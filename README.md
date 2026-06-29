@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
