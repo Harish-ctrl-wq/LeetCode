@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
