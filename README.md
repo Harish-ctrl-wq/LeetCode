@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
