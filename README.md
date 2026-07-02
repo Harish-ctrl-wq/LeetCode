@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3379-transformed-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3379-transformed-array) |
 | [3708-longest-fibonacci-subarray](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3708-longest-fibonacci-subarray) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Trie
 |  |
 | ------- |
