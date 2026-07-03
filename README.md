@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
