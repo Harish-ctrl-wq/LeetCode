@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -220,5 +221,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
