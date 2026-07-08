@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2951-find-the-peaks](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2951-find-the-peaks) |
 | [3379-transformed-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3379-transformed-array) |
+| [3701-compute-alternating-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3708-longest-fibonacci-subarray](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3708-longest-fibonacci-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3379-transformed-array) |
+| [3701-compute-alternating-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Recursion
 |  |
 | ------- |
