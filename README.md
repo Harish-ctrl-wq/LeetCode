@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0090-subsets-ii) |
 ## Enumeration
