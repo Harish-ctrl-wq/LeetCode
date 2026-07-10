@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -282,4 +284,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
