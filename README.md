@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
