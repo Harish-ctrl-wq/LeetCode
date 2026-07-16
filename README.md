@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3708-longest-fibonacci-subarray](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3708-longest-fibonacci-subarray) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
