@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0509-fibonacci-number) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
