@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0204-count-primes) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3379-transformed-array) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0090-subsets-ii) |
 | [0371-sum-of-two-integers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0371-sum-of-two-integers) |
