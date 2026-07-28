@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
