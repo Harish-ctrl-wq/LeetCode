@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -477,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
