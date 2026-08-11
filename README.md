@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0258-add-digits) |
 | [0946-validate-stack-sequences](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3379-transformed-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
