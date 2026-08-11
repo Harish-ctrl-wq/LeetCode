@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2239-find-closest-number-to-zero](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -249,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Matrix
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1291-sequential-digits) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2951-find-the-peaks](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
