@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2239-find-closest-number-to-zero](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2239-find-closest-number-to-zero) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2951-find-the-peaks](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2951-find-the-peaks) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
