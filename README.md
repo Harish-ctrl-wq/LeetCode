@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Trie
