@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
