@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2239-find-closest-number-to-zero](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Trie
 |  |
