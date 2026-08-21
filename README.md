@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0575-distribute-candies](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0575-distribute-candies](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0888-fair-candy-swap) |
