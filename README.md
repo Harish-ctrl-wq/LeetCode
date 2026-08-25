@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3708-longest-fibonacci-subarray](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3708-longest-fibonacci-subarray) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
