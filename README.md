@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2951-find-the-peaks) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
