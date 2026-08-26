@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0697-degree-of-an-array) |
