@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0733-flood-fill) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0733-flood-fill) |
