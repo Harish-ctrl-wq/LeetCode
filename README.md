@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
