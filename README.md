@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0229-majority-element-ii) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0151-reverse-words-in-a-string) |
