@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3978-unique-middle-element](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3978-unique-middle-element](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/3978-unique-middle-element) |
 ## Trie
 |  |
 | ------- |
