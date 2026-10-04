@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -628,11 +630,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Game Theory
 |  |
@@ -674,4 +678,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
