@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1288-remove-covered-intervals](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1207-unique-number-of-occurrences](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
