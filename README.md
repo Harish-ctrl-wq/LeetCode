@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2951-find-the-peaks) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2652-sum-multiples](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harish-ctrl-wq/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
